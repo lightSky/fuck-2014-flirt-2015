@@ -20,7 +20,7 @@
 [开源的一年](../master/1/trinea.md) | [Trinea](https://github.com/trinea)
 [进步的一年](../master/1/xu6148152.md) | [xu6148152](https://github.com/xu6148152)
 [埋头苦干的一年](../master/1/rengwuxian.md) | [扔物线](https://github.com/rengwuxian)
-
+[成长的一年](../master/1/lightSky.md) | [扔物线](https://github.com/lightSky)
 #### [2 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
